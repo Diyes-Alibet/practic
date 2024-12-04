@@ -1,0 +1,68 @@
+*{
+    color:white
+}
+#all {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    position: absolute;
+    top: 44px;
+    left: 310px;
+    border-radius: 20px;
+}
+#text1 {
+    position: relative;
+    font-family:"MV Boli",sans-serif;
+    letter-spacing: 4px;
+    color:red;
+    top: -34px;
+}
+img{
+    width: 350px;
+    height: 350px;
+    border-radius: 30px;
+    position:relative;
+    z-index: 2;
+    right: 208px;
+    top: -69px;
+}
+p {
+    font-size: 17px;
+   position: absolute;
+    top: 157px;
+    width: 430px;
+    left: 468px;
+    letter-spacing: 1px;
+}
+h2 {
+    font-size: 30px;
+    position: relative;
+    font-family: "Microsoft PhagsPa",sans-serif;
+    letter-spacing: 4px;
+    display: flex;
+    justify-content: center;
+    top: -61px;
+}
+button{
+    color: white;
+    background: black;
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+    font-family: fantasy;
+    letter-spacing: 4px;
+    border-radius: 40px;
+    position: relative;
+    left: 200px;
+    top: 164px;
+    display: none;
+}
+#prev {
+    position: relative;
+    left: 200px;
+}
+

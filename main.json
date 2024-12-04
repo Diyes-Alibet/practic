@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Hulk",
+    "img": "https://i.pinimg.com/736x/0a/74/c2/0a74c2468646d5327583708d95c0a724.jpg",
+    "info": "The Hulk is a superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962). In his comic book appearances, the character, who has dissociative identity disorder (DID), is primarily represented by the alter ego Hulk, a green-skinned, hulking, and muscular humanoid possessing a limitless degree of physical strength, and the alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist, both of whom typically resent each other.",
+    "id": 1
+  },
+  {
+    "name": "Iron Man",
+    "img": "https://i.pinimg.com/736x/55/35/0c/55350c8c94403bc4daf9f94463f2ba9e.jpg",
+    "info": "Most Ironman events have a time limit of 16 or 17 hours to complete the race, course dependent, with the race typically starting at 7:00 am. The mandatory cutoff time to complete the swim is 2 hours 20 minutes. The mandatory bike cut off time for when an athlete must have completed their swim, transition and bike varies generally between 10 hours and 10 hours 30 minutes from when an athlete began their swim. The mandatory run cutoff varies between 16 and 17 hours from when athlete began their swim. Many races will also have intermediate bike, run, and transition cut off times specific to each race venue. Any participant who completes the triathlon within these time constraints is designated an Ironman.",
+    "id": 2
+  },
+  {
+    "name": "Captain America",
+    "img": "https://i.pinimg.com/736x/52/12/80/521280cd45e9680fd334577f2906da22.jpg",
+    "info": "Captain America is a superhero created by Joe Simon and Jack Kirby who appears in American comic books published by Marvel Comics. The character first appeared in Captain America Comics #1, published on December 20, 1940, by Timely Comics, a corporate predecessor to Marvel. Captain America's civilian identity is Steven \"Steve\" Rogers, a frail man enhanced to the peak of human physical perfection by an experimental \"super-soldier serum\" after joining the United States Army to aid the country's efforts in World War II.",
+    "id": 3
+  },
+  {
+    "name": "Spider-Man",
+    "img": "https://i.pinimg.com/736x/a4/36/84/a436840ee88b6f62d4f0c7b00fdab46a.jpg",
+    "info": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. He has been featured in comic books, television shows, films, video games, novels, and plays.",
+    "id" : 4
+  },
+  {
+    "name": "Wanda",
+    "img": "https://i.pinimg.com/736x/f7/0f/5b/f70f5bcb6a7c33c1922d222dd731ad33.jpg",
+    "info": "Wanda Maximoff / Scarlet Witch is a character primarily portrayed by Elizabeth Olsen in the Marvel Cinematic Universe (MCU) media franchise based on the Marvel Comics character of the same name. Wanda is initially depicted as a Sokovian refugee who, along with her twin brother Pietro Maximoff / Quicksilver, volunteers to be experimented on by Hydra. The Mind Stone amplifies her natural telekinetic and energy manipulation abilities, later known as Chaos magic.[3] Wanda initially conflicts with the Avengers but later joins them to defeat Ultron, becoming one of their most powerful members.[4]",
+    "id": 5
+  },
+  {
+    "name": "Ant-Man",
+    "img": "https://i.pinimg.com/736x/bc/89/b9/bc89b924291b244ea99b2e8d42ad692f.jpg",
+    "info": "Ant-Man is a 2015 American superhero film based on the Marvel Comics characters of the same name: Scott Lang and Hank Pym. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 12th film in the Marvel Cinematic Universe (MCU). The film was directed by Peyton Reed from a screenplay by the writing teams of Edgar Wright & Joe Cornish and Adam McKay & Paul Rudd. It stars Rudd as Scott Lang / Ant-Man alongside Evangeline Lilly, Corey Stoll, Bobby Cannavale, Michael Peña, Tip \"T.I.\" Harris, Anthony Mackie, Wood Harris, Judy Greer, Abby Ryder Fortson, David Dastmalchian, and Michael Douglas as Hank Pym.",
+    "id": 6
+  },
+  {
+    "name": "Black Widow",
+    "img": "https://i.pinimg.com/736x/c2/26/aa/c226aa7a652ee063bb766d844740bedd.jpg",
+    "info": "Black Widow is a 2021 American superhero film based on Marvel Comics featuring the character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 24th film in the Marvel Cinematic Universe (MCU). The film was directed by Cate Shortland from a screenplay by Eric Pearson and stars Scarlett Johansson as Natasha Romanoff / Black Widow alongside Florence Pugh, David Harbour, O-T Fagbenle, Olga Kurylenko, William Hurt, Ray Winstone, and Rachel Weisz. Set after the events of Captain America: Civil War (2016), the film sees Romanoff on the run and forced to confront her past as a Russian spy before she became an Avenger.",
+    "id": 7
+  },
+  {
+    "name": "Loki",
+    "img": "https://i.pinimg.com/736x/e5/89/34/e589346cf2d2c5b56154dbbc40e7c4e5.jpg",
+    "info": "Loki is a god in Norse mythology. He is the son of Fárbauti (a jötunn) and Laufey (a goddess), and the brother of Helblindi and Býleistr. Loki is married to the goddess Sigyn and they have two sons, Narfi or Nari and Váli. By the jötunn Angrboða, Loki is the father of Hel, the wolf Fenrir and the world serpent Jörmungandr. In the form of a mare, Loki was impregnated by the stallion Svaðilfari and gave birth to the eight-legged horse Sleipnir.",
+    "id": 8
+  },
+  {
+    "name": "Dr Strange",
+    "img": "https://i.pinimg.com/736x/06/73/c3/0673c3bd18c32e9d10c80c6b32bd4f6f.jpg",
+    "info": "Dr. Stephen Vincent Strange is a fictional character appearing in American comic books published by Marvel Comics. Created by Steve Ditko, the character first appeared in Strange Tales #110 (cover-dated July 1963). Doctor Strange serves as the Sorcerer Supreme, the primary protector of Earth against magical and mystical threats. Strange was introduced during the Silver Age of Comic Books in an attempt to bring a different kind of character and themes of mysticism to Marvel Comics.",
+    "id": 9
+  },
+  {
+    "name": "Vision",
+    "img": "https://i.pinimg.com/736x/56/f4/9b/56f49bafd79b6afd1c50c4b7018b5be6.jpg",
+    "info": "The Vision is a superhero appearing in American comic books published by Marvel Comics. Created by Roy Thomas and artist John Buscema, the character first appeared in The Avengers #57 (published in August 1968).[1][2][3] The Vision is loosely based on the Timely Comics character of the same name who was an alien from another dimension. The character is an android (sometimes called a \"synthezoid\") built by the villainous robot Ultron created by Hank Pym. Originally intended to act as Ultron's \"son\" and destroy the Avengers, Vision instead turned on his creator and joined the Avengers to fight for the forces of good.",
+    "id": 10
+  },
+  {
+    "name": "Thor",
+    "img": "https://i.pinimg.com/736x/cc/e4/78/cce47895296a49c6261c91ad3b78422f.jpg",
+    "info": "Thor (from Old Norse: Þórr) is a prominent god in Germanic paganism. In Norse mythology, he is a hammer-wielding god associated with lightning, thunder, storms, sacred groves and trees, strength, the protection of humankind, hallowing, and fertility. Besides Old Norse Þórr, the deity occurs in Old English as Thunor, in Old Frisian as Thuner, in Old Saxon as Thunar, and in Old High German as Donar, all ultimately stemming from the Proto-Germanic theonym *Þun(a)raz, meaning 'Thunder'.",
+    "id": 11
+  }
+]
+
+
+
